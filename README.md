@@ -61,12 +61,12 @@ curl -X POST https://api.greensats.africa/payments \
 - **♻️ 10,000kg materials processed**
 
 ### Phase 2 
-- **⚡ Rwanda Solar Expansion**
+- **⚡ Kenya Bitcoin Mining Centres Solar Expansion**
 - **🔌 50 smart meters deployed**
 - **⛏️ 2 mining partners secured**
 
 ### Phase 3 
-- **🌱 Ghana Tree-Planting**
+- **🌱 Nairobi & Outskirts Tree-Planting**
 - **🌳 1,000 trees verified**
 - **📜 Carbon credits issued**
 
