@@ -29,15 +29,15 @@ Traditional solutions fail because they're:
    - Smart kiosks with QR code scanners
    - Transparent supply chain tracking
 
-2. **☀️ Solar-to-Earn**
-   - P2P energy trading via Lightning
-   - Bitcoin miners as anchor buyers
-   - LN-enabled smart meters ($50/unit)
-
-3. **🌳 Plant-to-Earn**
+2. **🌳 Plant-to-Earn**
    - Geotagged tree verification
    - RGB-based carbon credits
    - Corporate sponsorship portal
+
+3. **☀️ Solar-to-Earn**
+   - P2P energy trading via Lightning
+   - Bitcoin miners as anchor buyers
+   - LN-enabled smart meters ($50/unit)
 
 ## 🛠️ Technology Stack
 
