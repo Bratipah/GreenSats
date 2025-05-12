@@ -55,17 +55,17 @@ curl -X POST https://api.greensats.africa/payments \
 ```
 ## 🚀 Growth Strategy
 
-### Phase 1 (Q1 2024)
+### Phase 1 
 - **📍 Nairobi Recycle Pilot**
 - **🎯 200 waste pickers onboarded**
 - **♻️ 10,000kg materials processed**
 
-### Phase 2 (Q2 2024)
+### Phase 2 
 - **⚡ Rwanda Solar Expansion**
 - **🔌 50 smart meters deployed**
 - **⛏️ 2 mining partners secured**
 
-### Phase 3 (Q3 2024)
+### Phase 3 
 - **🌱 Ghana Tree-Planting**
 - **🌳 1,000 trees verified**
 - **📜 Carbon credits issued**
@@ -79,8 +79,7 @@ curl -X POST https://api.greensats.africa/payments \
 ## 🤝 Get Involved
 We're looking for:
 - **Developers**: Lightning/RGB experts
-- **Partners**: Recyclers, solar companies
-- **Investors**: $50k seed round open
+- **Partners**: Recyclers, solar companies, Humanitarian NGOs 
 
 📧 **Contact**: team@greensats.africa
 
